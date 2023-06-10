@@ -1,0 +1,124 @@
+.about {
+  padding-top: 128px;
+  padding-bottom: 134px;
+  background-color: var(--secondary-bg-color);
+}
+
+.food-apple {
+  padding: 52px 24px;
+  border-radius: 50%;
+}
+
+.about-title {
+  position: absolute;
+  width: 526.17px;
+  height: 100px;
+  left: 692px;
+  top: 812px;
+  font-family: var(--main-font-family);
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 120%;
+  color: var(--primary-text-color);
+}
+
+.about-text {
+  position: absolute;
+  width: 500px;
+  height: 72px;
+  left: 692px;
+  top: 932px;
+  font-family: var(--main-font-family);
+  font-size: 16px;
+  line-height: 150%;
+  color: var(--primary-text-color);
+}
+
+.icon-sta-rocket {
+  position: absolute;
+  left: 692px;
+  top: 1044px;
+  padding: 8px 8px;
+  border-radius: 50%;
+  background-color: var(--primary-bg-color);
+}
+
+.icon-sta-finger {
+  position: absolute;
+  width: 48px;
+  height: 48px;
+  left: 1012px;
+  top: 1044px;
+  padding: 8px 8px;
+  border-radius: 50%;
+  background-color: var(--primary-bg-color);
+}
+
+.advantage-title {
+  position: absolute;
+  width: 124px;
+  height: 25px;
+  left: 692px;
+  top: 1100px;
+  font-family: var(--main-font-family);
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 140%;
+  margin-top: 8px;
+  color: var(--primary-text-color);
+}
+
+.advantage-title-1 {
+  position: absolute;
+  width: 112px;
+  height: 25px;
+  left: 1012px;
+  top: 1100px;
+  font-family: var(--main-font-family);
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 140%;
+  margin-top: 8px;
+  color: var(--primary-text-color);
+}
+
+.advantage-text {
+  position: absolute;
+  width: 253px;
+  height: 63px;
+  left: 692px;
+  top: 1141px;
+  font-family: var(--main-font-family);
+  font-size: 14px;
+  line-height: 150%;
+  color: var(--primary-text-color);
+}
+
+.advantage-text-1 {
+  position: absolute;
+  width: 253px;
+  height: 63px;
+  left: 1012px;
+  top: 1141px;
+  font-family: var(--main-font-family);
+  font-size: 14px;
+  line-height: 150%;
+  color: var(--primary-text-color);
+}
+
+.button-secondary {
+  position: absolute;
+  left: 692px;
+  top: 1262px;
+  font-family: var(--main-font-family);
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 150%;
+  text-align: right;
+  padding: 10px 22px;
+  margin-top: 58px;
+  border-radius: 30px;
+  border: 2px solid var(--secondary-text-color);
+  background-color: var(--btn-bgc-color);
+  color: var(--primary-text-color);
+}
