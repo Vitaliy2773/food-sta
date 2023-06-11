@@ -56,3 +56,39 @@
 .button:focus {
   background-color: var(--btn-hover-color);
 }
+
+.hero-section {
+  padding-top: 144px;
+  padding-bottom: 170px;
+}
+
+.hero-title {
+  position: relative;
+  width: 537px;
+  height: 100px;
+  font-family: var(--main-font-family);
+  font-weight: 700;
+  font-size: 42px;
+  line-height: 120%;
+  color: var(--primary-text-color);
+}
+
+.hero-text {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  width: 514px;
+  height: 70px;
+  font-family: var(--main-font-family);
+  font-size: 16px;
+  line-height: 150%;
+  color: var(--primary-text-color);
+}
+
+.food {
+  position: absolute;
+  top: 124px;
+  left: 728.5px;
+  margin-left: 200px;
+  border-radius: 250px;
+  border: 14px solid #ffe550;
+}
