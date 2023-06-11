@@ -1,0 +1,10 @@
+:root {
+  --main-font-family: 'Roboto', sans-serif;
+  --primary-text-color: #2c2c2c;
+  --secondary-text-color: #7eb101;
+  --primary-bg-color: #fefefe;
+  --secondary-bg-color: #ffe550;
+  --accent-color: #bbf330;
+  --btn-hover-color: #ffe450;
+  --btn-bgc-color: #ffffff;
+}
